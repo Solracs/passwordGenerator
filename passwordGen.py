@@ -32,5 +32,4 @@ if args.l:
         print(password)
 
     except:
-        print("\nInvalid argument... length must be an integer\n")
-
+        print("\nSomething unexpected went wrong  :( \n")
