@@ -1,5 +1,5 @@
 #!/bin/python3
-# Made by: @Solracs
+# Made by: @SolracS
 
 import sys
 import secrets
