@@ -9,7 +9,7 @@ $python3 passwordGen.py -h
 $python3 passwordGen.py --help
 ```
 
-Ececution:
+Execution:
 ```
 $python3 passwordGen.py -l <password length>
 ```
